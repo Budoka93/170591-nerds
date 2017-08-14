@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Антон Нидзельницкий](https://up.htmlacademy.ru/htmlcss/18/user/170591).
-* Наставник: [Евгений Закурдаев] (https://htmlacademy.ru/profile/id25657)
+* Наставник: [Евгений Закурдаев](https://up.htmlacademy.ru/htmlcss/18/user/25657).
 
 ---
 
