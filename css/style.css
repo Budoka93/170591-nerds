@@ -1,17 +1,17 @@
 body {
-	line-height: normal;
+	line-height: 12px;
 	font-size: 16px;
 	color: #283136;
 	background-color: #fff;
-	font-family: "Roboto Regular";
+	font-family: "Roboto"; "Roboto Regular"; serif;
 }
 
 h1 {
 	font-size: 55px;
-	color: #000000
+	color: #000000;
 }
 
 h3 {
-	font-size: 24px
-	color: #000000
+	font-size: 24px;
+	color: #000000;
 }
